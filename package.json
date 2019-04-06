@@ -1,0 +1,10 @@
+{
+  "name": "thread",
+  "version": "1.0.0",
+  "main": "script.js",
+  "author": "shinigami",
+  "license": "MIT",
+  "dependencies": {
+    "threads": "^0.12.1"
+  }
+}
